@@ -84,12 +84,6 @@ Atau jalankan dengan server lokal:
 python -m http.server 8080
 ```
 
-Lalu buka:
-
-```text
-http://localhost:8080
-```
-
 ---
 
 ## 🎨 Palet Warna
