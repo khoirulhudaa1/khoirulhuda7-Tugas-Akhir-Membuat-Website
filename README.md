@@ -54,7 +54,7 @@ Proyek ini dibuat menggunakan teknologi dasar web:
 ## 📁 Struktur Folder
 
 ```text
-web_pekalongan/
+Tugas-Akhir-Membuat-Website/
 ├── index.html
 ├── README.md
 └── assets/
