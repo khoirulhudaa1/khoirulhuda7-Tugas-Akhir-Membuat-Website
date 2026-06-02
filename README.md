@@ -81,7 +81,7 @@ web_pekalongan/
 Atau jalankan dengan server lokal:
 
 ```bash
-python -m http.server 8080
+ctrl+ f5
 ```
 
 ---
