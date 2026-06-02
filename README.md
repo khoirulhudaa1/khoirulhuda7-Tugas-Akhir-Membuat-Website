@@ -123,7 +123,29 @@ Dikembangkan sebagai proyek latihan **Belajar Dasar Pemrograman Web** dengan tem
 
 > “Pekalongan bukan hanya kota batik, tetapi juga ruang cerita, warna, rasa, dan budaya pesisir.”
 # tugas-akhir-website
-# tugas-akhir-website
-# tugas-akhir-website
-# tugas-akhir-website
-#
+
+## 👨‍💻 Author
+
+<div align="center">
+
+### ✨ Khoirul Huda ✨
+
+📚 Information Systems Student  
+💻 Backend Developer | Flutter Developer  
+🚀 Java & Python for Data Science  
+🎨 Frontend Web Developer  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CodeIgniter4-Backend-red?style=for-the-badge&logo=codeigniter">
+  <img src="https://img.shields.io/badge/Flutter-Mobile-blue?style=for-the-badge&logo=flutter">
+  <img src="https://img.shields.io/badge/PHP-Developer-purple?style=for-the-badge&logo=php">
+  <img src="https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge&logo=mysql">
+</p>
+
+### 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-khoirulhudaa1-181717?style=for-the-badge&logo=github)](https://github.com/khoirulhudaa1)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khoirul_Huda-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/khoirulhudaa1/)
+
+</div>
